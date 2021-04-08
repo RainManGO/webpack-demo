@@ -1,0 +1,7 @@
+{
+  "name": "base-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "张宇",
+  "license": "MIT"
+}
