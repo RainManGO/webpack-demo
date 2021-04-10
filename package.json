@@ -5,6 +5,12 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "css-loader": "^5.2.0",
+    "lerna": "^4.0.0",
+    "less": "^4.1.1",
+    "sass": "^1.32.8",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
   }
 }

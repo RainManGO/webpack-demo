@@ -1,0 +1,12 @@
+{
+  "name": "css-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "张宇",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "less-loader": "^8.0.0",
+    "sass-loader": "^11.0.1"
+  }
+}

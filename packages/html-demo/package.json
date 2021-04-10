@@ -1,0 +1,10 @@
+{
+  "name": "html-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "张宇",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1"
+  }
+}
